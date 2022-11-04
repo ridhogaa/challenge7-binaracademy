@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853592114467",
+    "project_id": "challengetopseven",
+    "storage_bucket": "challengetopseven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853592114467:android:a0171a1e5fe306260bb896",
+        "android_client_info": {
+          "package_name": "com.ergea.challengetopseven.premium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853592114467-dv18k9k7gpp110760iavpbv84dcjc2kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPg7tEQBgfGAeaq9Y1re9DhrvJn_-JCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853592114467-dv18k9k7gpp110760iavpbv84dcjc2kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
